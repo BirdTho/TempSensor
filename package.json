@@ -1,0 +1,35 @@
+{
+  "name": "tempsensor",
+  "version": "1.0.0",
+  "description": "Temperature sensor for DHT 22 with screen output",
+  "main": "app.js",
+  "dependencies": {
+    "node-dht-sensor": "^0.0.32"
+  },
+  "devDependencies": {
+    "cluster": "^0.7.7",
+    "d3": "^4.10.0",
+    "node-dht-sensor": "0.0.32",
+    "repeat": "0.0.6",
+    "rethinkdb": "^2.3.3"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BirdTho/TempSensor.git"
+  },
+  "keywords": [
+    "temp",
+    "sensor",
+    "dht22",
+    "electron"
+  ],
+  "author": "Christopher Thomas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BirdTho/TempSensor/issues"
+  },
+  "homepage": "https://github.com/BirdTho/TempSensor#readme"
+}
