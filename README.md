@@ -1,6 +1,6 @@
 # tempsensor
 
-> Temperature sensor for DHT 22 with screen output
+> Temperature sensor for DHT 22 with screen output for use on a Raspberry Pi
 
 ## About
 
